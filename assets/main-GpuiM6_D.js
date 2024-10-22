@@ -1,0 +1,1 @@
+import{_ as r,k as t,H as c}from"./preact.module-BGZS-fhn.js";function s(n){return r(t,null,f(n.children,n.separator))}function f(n,e=""){const i=c(n),o=[];for(const u of i)o.push(u,r(t,null,e));return o.length!==0&&o.pop(),o}export{s as J};

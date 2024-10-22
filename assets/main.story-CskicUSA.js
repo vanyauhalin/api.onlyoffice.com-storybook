@@ -1,0 +1,3 @@
+import{_ as a}from"./preact.module-BGZS-fhn.js";function l(o){const{children:c,...d}=o;return a("textarea",{class:"code-editor",rows:4,autocomplete:"off",autocorrect:"off",autocapitalize:"none",spellcheck:!1,...d},c)}const s={title:"UI Foundation / Code Editor"};function e(o){return a(l,null,o.children??'console.log("Code editor")')}var r,t,n;e.parameters={...e.parameters,docs:{...(r=e.parameters)==null?void 0:r.docs,source:{originalSource:`function Default(p: ChildrenIncludable): JSX.Element {
+  return <CodeEditor>{p.children ?? 'console.log("Code editor")'}</CodeEditor>;
+}`,...(n=(t=e.parameters)==null?void 0:t.docs)==null?void 0:n.source}}};export{e as Default,s as default};

@@ -1,0 +1,1 @@
+import{D as r}from"./main-DIEyNR2v.js";import{c as s}from"./clsx-B-dksMZM.js";import{_ as n}from"./preact.module-BGZS-fhn.js";function i(t){const{...o}=t;return o.class=s("content",o.class),n(r,{...o})}export{i as C};

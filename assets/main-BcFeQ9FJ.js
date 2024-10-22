@@ -1,0 +1,1 @@
+import{D as s}from"./main-DIEyNR2v.js";import{c as a}from"./clsx-B-dksMZM.js";import{_ as t}from"./preact.module-BGZS-fhn.js";function i(r){const{...o}=r;return o.class=a("badge-group",o.class),t(s,{...o})}export{i as B};
